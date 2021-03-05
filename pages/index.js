@@ -1,4 +1,4 @@
-import '../src/css/main.css';
+import './main.css';
 
 function App() {
     return <h1>Olá, mundo!</h1>
